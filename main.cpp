@@ -28,9 +28,9 @@ int main()
   {
     for(int j=0;j<wordGrid[i].size();j++)
     {
-    cout>>"Row ">>wordGrid[i];
-    cout>>"Column ">>wordGrid[j];
-    cout>>"is ">>wordGrid[i][j];
+    cout<<"Row ">>wordGrid[i];
+    cout<<"Column ">>wordGrid[j];
+    cout<<"is ">>wordGrid[i][j];
     
 
 
